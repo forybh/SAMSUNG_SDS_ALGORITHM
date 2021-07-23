@@ -1,0 +1,14 @@
+NUM 4
+MOD
+END
+1
+-2
+
+NUM -2
+DIV
+END
+1
+-6
+
+QUIT
+
